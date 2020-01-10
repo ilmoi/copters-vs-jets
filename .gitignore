@@ -1,3 +1,7 @@
-*.png
-*.jpg
+**/*.png
+**/*.jpg
+**/*.jpeg
+data/
+env/
+static/
 .DS_Store
